@@ -9,7 +9,7 @@ from aiogram.filters import CommandStart, StateFilter
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
-TOKEN = '8621625728:AAGa4XOQK739TltYrJC-ku-sYwbTEglDjw4'
+TOKEN = '8621625728:AAHt5hqaGopZ8U_YmWzONCYIltYf4W6LxPM'
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 router = Router()
